@@ -1,3 +1,7 @@
+# Rails::Clue Frontend
+
+A React frontend for an interactive web version of [Rails::Clue](https://github.com/julienfitz/rails_clue). A very early work-in-progress!
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
